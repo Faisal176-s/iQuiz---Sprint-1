@@ -5,7 +5,7 @@ from flaskblog.modelss import User, Post
 from flaskblog import db
 from flask_login import login_user, login_required, logout_user, current_user
 
-
+print("github")
 '''
 posts = [ {'author': 'Faisal',
            'title': 'Flask Training',
